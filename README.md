@@ -14,7 +14,7 @@ My project uses telegram secure api and empowers you with a cost-effective alter
 
 ## Note
 
-* Use [Unlim-Uploader.ipynb](./Unlim-Uploader.ipynb) in vscode(recomended) for local pc files or in colab for google drive files.
+* Use [Unlim-Uploader.ipynb](https://github.com/RamNikhileshNunna/Unlimited-Cloud-Storage/blob/main/File_Splitter_Merger.ipynb) in vscode(recomended) for local pc files or in colab for google drive files.
 * you can find your uploaded files in [Unlim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&hl=en&gl=US) app Currently only available for android or you can use [unlim-webversion](https://unlim-cloud.web.app/files)
 * login into unlim app and you can organize you files there as folders and subfolders.
 * if want to upload files greater than 2GB you need to split the file into chunks using [File_splitter](./File_Splitter_Merger.ipynb) or upgrade to telegram premium for uploading files upto 4GB.
